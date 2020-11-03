@@ -1,3 +1,4 @@
+DISCLAIMER: ALL CODE BY THE ORIGINAL KAMI BLUE. https://kamiblue.org/ https://github.com/kami-blue/client
 [![CodeFactor](https://www.codefactor.io/repository/github/kami-blue/client/badge)](https://www.codefactor.io/repository/github/kami-blue/client)
 [![Build Status features-master](https://img.shields.io/travis/com/kami-blue/client/master?logo=gradle&label=build)](https://travis-ci.com/kami-blue/client)
 [![Discord Mine](https://img.shields.io/discord/573954110454366214?label=chat&logo=discord&logoColor=white)](https://discord.gg/KfpqwZB)
